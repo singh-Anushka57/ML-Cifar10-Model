@@ -13,4 +13,4 @@ Python, TensorFlow/Keras, NumPy, scikit-learn, Streamlit, Matplotlib, Seaborn
 - Streamlit app to upload image and get prediction
 
 ## Quickstart
-1. Create and activate virtualenv (optional)
+1. Create and activate virtualenv
